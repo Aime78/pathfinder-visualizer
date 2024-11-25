@@ -6,6 +6,5 @@
 
 ![app-demo](./src/assets/pathfinding-visualizer.gif)
 
-### Get Started From Scratch
 
 
